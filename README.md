@@ -14,9 +14,9 @@ Bogotá D.C., Colombia
 <img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a></div>---
 
-<div align="center">"01 · ABOUT ME"
+<div align="center">01 · ABOUT ME
 
-</div>Soy Técnico en Programación de Software del SENA, orientado al desarrollo de software y soluciones web.
+</div>Soy Técnico en Programación de Software del SENA, estoy orientado al desarrollo de software y soluciones web.
 
 Actualmente estoy enfocado en fortalecer mis conocimientos en Java, Python, JavaScript, HTML5, CSS3 y SQL, desarrollando proyectos que me permitan transformar conocimientos teóricos en soluciones prácticas.
 
@@ -24,38 +24,37 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en Java, Python, Java
 
 ---
 
-<div align="center">"02 · TECH STACK"
-
+<div align="center">02 · TECH STACK
+ 
 💻 DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" alt="Development Stack">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Development Stack">🗄️ DATABASE
+🗄️ DATABASE
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database"><br>SQL · Microsoft Access
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database"><br>"SQL" · "Microsoft Access"
 
 🔧 TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"><br>"Microsoft Excel" · "Microsoft Word" · "Power BI" · "Scrum"
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"><br>
+Microsoft Excel · Microsoft Word · Power BI · Metodologia Scrum
 
 </div>---
 
-<div align="center">"03 · FEATURED PROJECT"
+<div align="center">03 · FEATURED PROJECT
 
 📚 Biblioteca Inteligente
 
 "WEB APPLICATION · EN DESARROLLO"
 
-</div>Proyecto enfocado en la creación de una aplicación web para la gestión y consulta de una biblioteca digital.
+</div>Proyecto enfocado en la creación de una aplicación web para la gestión y consulta de una biblioteca digital.<br>
 
-Funcionalidades
-
-📖  Exploración de libros
-🔎  Consulta de información
-🛒  Carrito de compra
-📚  Biblioteca digital personal
-🗄️  Gestión de información
+Funcionalidades<br>
+📖  Exploración de libros<br>
+🔎  Consulta de información<br>
+🛒  Carrito de compra<br>
+📚  Biblioteca digital personal<br>
+🗄️  Gestión de información<br>
 
 Stack
-
 "Java" "SQL" "HTML5" "CSS3" "Git" "GitHub"
 
 <br><div align="center"><a href="https://github.com/jesalazar8803-netizen">
