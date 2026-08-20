@@ -1,15 +1,15 @@
-<div align="center">"J | E"
+<div align="center">J | E
 
 JOHN EDWARD
 
 SALAZAR RODRÍGUEZ
 
-"SOFTWARE DEVELOPER · JUNIOR"
+SOFTWARE DEVELOPER · JUNIOR
 
-🇨🇴 Bogotá D.C., Colombia
+Bogotá D.C., Colombia
 
 <br><a href="https://jesalazar8803-netizen.github.io">
-<img src="https://img.shields.io/badge/🌐_PORTAFOLIO-OSLO-111827?style=for-the-badge" alt="Portafolio OSLO">
+<img src="https://img.shields.io/badge/🌐_PORTAFOLIO-OSLO-111827?style=for-the-badge" alt="Portafolio">
 </a><a href="https://github.com/jesalazar8803-netizen">
 <img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a></div>---
