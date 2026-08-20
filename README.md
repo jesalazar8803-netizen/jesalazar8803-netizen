@@ -2,20 +2,18 @@
 
 # J | E
 
-## JOHN EDWARD
+### JOHN EDWARD
+### SALAZAR RODRÍGUEZ
 
-## SALAZAR RODRÍGUEZ
-
-### SOFTWARE DEVELOPER · JUNIOR
+#### SOFTWARE DEVELOPER · JUNIOR
 
 📍 Bogotá D.C., Colombia
 
 <br>
 
-<a href="https://jesalazar8803-netizen.github.io">
+<a href="https://github.com/jesalazar8803-netizen/jesalazar8803-netizen.github.io">
   <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-111827?style=for-the-badge" alt="Portafolio">
 </a>
-
   
 
 <a href="https://github.com/jesalazar8803-netizen">
@@ -28,11 +26,11 @@
 
 <div align="center">
 
-## 01 · ABOUT ME
+### 01 · ABOUT ME
 
 </div>
 
-Soy **Técnico en Programación de Software del SENA**, orientado al desarrollo de software y soluciones web.
+Soy **Técnico en Programación de Software**, orientado al desarrollo de software y soluciones web.
 
 Actualmente estoy enfocado en fortalecer mis conocimientos en **Java, Python, JavaScript, HTML5, CSS3 y SQL**, desarrollando proyectos que me permitan transformar conocimientos teóricos en soluciones prácticas.
 
@@ -46,36 +44,26 @@ Crecer profesionalmente como **Desarrollador de Software Junior**, participar en
 
 <div align="center">
 
-## 02 · TECH STACK
+### 02 · TECH STACK
 
-### 💻 DEVELOPMENT
-
+#### 💻 DEVELOPMENT
 <br>
-
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Development Stack">
 
 <br><br>
 
-### 🗄️ DATABASE
-
+#### 🗄️ DATABASE
 <br>
-
 <img src="https://skillicons.dev/icons?i=mysql" alt="Database">
-
 <br>
-
 `SQL` · `Microsoft Access`
 
 <br><br>
 
-### 🔧 TOOLS
-
+#### 🔧 TOOLS
 <br>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-
-<br><br>
-
+<br>
 `Microsoft Excel` · `Microsoft Word` · `Power BI` · `Metodología Scrum`
 
 </div>
@@ -84,7 +72,7 @@ Crecer profesionalmente como **Desarrollador de Software Junior**, participar en
 
 <div align="center">
 
-## 03 · FEATURED PROJECT
+### 03 · FEATURED PROJECT
 
 # 📚 BIBLIOTECA INTELIGENTE
 
@@ -192,19 +180,19 @@ HTML + CSS
 
 <br>
 
-<a href="https://jesalazar8803-netizen.github.io">
+<a href="https://github.com/jesalazar8803-netizen/jesalazar8803-netizen.github.io">
   <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-111827?style=for-the-badge" alt="Visitar portafolio">
 </a>
 
 <br><br>
 
-<a href="https://github.com/jesalazar8803-netizen">
+<a href="https://github.com/jesalazar8803-netizen/jesalazar8803-netizen.github.io">
   <img src="https://img.shields.io/badge/💻_MIS_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mis repositorios">
 </a>
 
 <br><br>
 
-<a href="https://github.com/jesalazar8803-netizen">
+<a href="https://jesalazar8803-netizen.github.io/">
   <img src="https://img.shields.io/badge/📄_CURRÍCULUM_VITAE-4B5563?style=for-the-badge" alt="Currículum Vitae">
 </a>
 
