@@ -9,7 +9,7 @@ SOFTWARE DEVELOPER · JUNIOR
 Bogotá D.C., Colombia
 
 <br><a href="https://jesalazar8803-netizen.github.io">
-<img src="https://img.shields.io/badge/🌐_PORTAFOLIO-OSLO-111827?style=for-the-badge" alt="Portafolio">
+<img src="https://img.shields.io/badge/🌐_PORTAFOLIO-AQUI-111827?style=for-the-badge" alt="Portafolio OSLO">
 </a><a href="https://github.com/jesalazar8803-netizen">
 <img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a></div>---
