@@ -55,17 +55,31 @@ Crecer profesionalmente como **Desarrollador de Software Junior**, participar en
 #### 🗄️ DATABASE
 <br>
 <img src="https://skillicons.dev/icons?i=mysql" alt="Database">
-<br>
-`SQL` · `Microsoft Access`
-
+<img src="sql.svg"
+     width="65"
+     height="65"
+     alt="SQL">
+<img src="microsoft-access.svg"
+     width="65"
+     height="65"
+     alt="Microsoft Access">
 <br><br>
 
 #### 🔧 TOOLS
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-<br>
-`Microsoft Excel` · `Microsoft Word` · `Power BI` · `Metodología Scrum`
-
+<img src="microsoft-excel.svg"
+     width="65"
+     height="65"
+     alt="Microsoft Excel">
+<img src="microsoft-word.svg"
+     width="65"
+     height="65"
+     alt="Microsoft Word">
+<img src="power-bi.svg"
+     width="65"
+     height="65"
+     alt="Power BI">
 </div>
 
 ---
