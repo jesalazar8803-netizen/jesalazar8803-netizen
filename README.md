@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
   
 ### JOHN EDWARD
@@ -565,20 +564,3 @@ HTML + CSS
 📍 Bogotá D.C., Colombia
 
 </div>
-```
-
-**Una corrección importante:** he dejado los botones de cada proyecto apuntando temporalmente a tu perfil de GitHub porque en la información que me diste no aparecen las **URLs exactas de cada repositorio**. No sería correcto inventarlas.
-
-Cuando tengas las URLs, por ejemplo:
-
-```text
-Biblioteca Inteligente → https://github.com/jesalazar8803-netizen/...
-JavaFX                → https://github.com/jesalazar8803-netizen/...
-Java MVC              → https://github.com/jesalazar8803-netizen/...
-CRUD JavaScript       → https://github.com/jesalazar8803-netizen/...
-API Películas         → https://github.com/jesalazar8803-netizen/...
-```
-
-se sustituyen directamente en cada botón.
-
-**Para el efecto carrusel real**, mi recomendación es otra: hacer que `index.html` de tu CV tenga una sección **“Portafolio de proyectos”** con el mismo carrusel 3D que acabamos de implementar, y que cada tarjeta lleve directamente al repositorio de GitHub. El `README.md` puede quedar como documentación/portada del perfil, mientras que tu web sería la experiencia visual interactiva.
