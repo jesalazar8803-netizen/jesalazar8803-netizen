@@ -174,7 +174,7 @@ HTML + CSS
 <a href="mailto:jesalazar8803@gmail.com">
   <img src="assets/gmail.svg" alt="Gmail" width="65" height="65">
 </a>
-<a href="www.linkedin.com/in/john-edward-salazar-rodríguez-03680236b">
+<a href="https://www.linkedin.com/in/john-edward-salazar-rodr%C3%ADguez-03680236b/">
   <img src="assets/linkedin.svg" alt="Linkedin" width="65" height="65">
 </a>
 
