@@ -3,13 +3,7 @@
 ### JOHN EDWARD SALAZAR RODRÍGUEZ
 
 #### Desarrollador de Software
-#### JUNIOR
-
 📍 Bogotá D.C., Colombia
-
-<a href="https://jesalazar8803-netizen.github.io/">
-  <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-111827?style=for-the-badge" alt="Portafolio">
-</a>
 </div>
 
 ---
@@ -79,7 +73,13 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en **Java, Python, Ja
 
 <div align="center">
 
-## 3 · Portafolio de Proyectos
+### 3 · Portafolio de Proyectos 
+
+<a href="https://jesalazar8803-netizen.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-111827?style=for-the-badge" alt="Portafolio">
+</a>
+
+---
 #### 🚀 MIS PROYECTOS
 <div align="justify">
 Mis proyectos forman parte de mi proceso de aprendizaje y construcción de experiencia práctica en desarrollo de software.
@@ -156,7 +156,7 @@ HTML + CSS
 </div>
 <br>
 <div align="center">
-<a href="https://jesalazar8803-netizen.github.io/">
+<a href="https://jesalazar8803-netizen.github.io/Curriculum-vitae-john-salazar/">
   <img src="https://img.shields.io/badge/📄_CURRÍCULUM_VITAE-4B5563?style=for-the-badge" alt="Currículum Vitae">
 </a>
 
