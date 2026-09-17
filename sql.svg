@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
-<title>SQL</title><desc>Generic SQL database icon</desc>
-<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#336791"/><stop offset="1" stop-color="#1f4f73"/></linearGradient></defs>
-<ellipse cx="64" cy="25" rx="39" ry="15" fill="url(#g)"/>
-<path d="M25 25v55c0 8 17 15 39 15s39-7 39-15V25" fill="url(#g)"/>
-<ellipse cx="64" cy="80" rx="39" ry="15" fill="#245b83"/>
-<path d="M25 52c0 8 17 15 39 15s39-7 39-15" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
-<text x="64" y="53" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#fff">SQL</text>
-</svg>
